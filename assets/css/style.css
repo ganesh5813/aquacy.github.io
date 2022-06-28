@@ -608,11 +608,6 @@ section {
   transition: all 0.3s;
   z-index: -1;
 }
-/*.featured-services .icon-box:hover::before {
-  background: #106eea;
-  top: 0;
-  border-radius: 0px;
-}*/
 .featured-services .icon {
   margin-bottom: 15px;
 }
@@ -635,9 +630,6 @@ section {
   line-height: 28px;
   margin-bottom: 0;
 }
-/*.featured-services .icon-box:hover .title a, .featured-services .icon-box:hover .description {
-  color: #fff;
-}*/
 .featured-services .icon-box:hover .icon i {
   color: #fff;
 }
